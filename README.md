@@ -1,6 +1,7 @@
  👋 Hi, I’m @SinanErbezci. 
 
  sinanerbezci.se@gmail.com
+
  [linkedin](https://www.linkedin.com/in/sinan-erbezci-8a6184103)
 
 <!---
