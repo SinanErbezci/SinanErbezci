@@ -1,6 +1,6 @@
  👋 Hi, I’m @SinanErbezci. 
 
-  [linkedin](https://www.linkedin.com/in/sinan-erbezci-8a6184103)
+ sinanerbezci.se@gmail.com [linkedin](https://www.linkedin.com/in/sinan-erbezci-8a6184103)
 
 <!---
 SinanErbezci/SinanErbezci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
